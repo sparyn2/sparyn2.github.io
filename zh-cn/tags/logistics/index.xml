@@ -1,19 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Logistics on Sparyn</title>
-    <link>http://localhost:1313/zh-cn/tags/logistics/</link>
-    <description>Recent content in Logistics on Sparyn</description>
-    <generator>Hugo</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/logistics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Platform-Ready Packing Checklist</title>
-      <link>http://localhost:1313/zh-cn/insights/platform-ready-packing/</link>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-cn/insights/platform-ready-packing/</guid>
-      <description>&lt;h2 id=&#34;why-packing-fails-expensive-pos&#34;&gt;Why packing fails expensive POs&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#why-packing-fails-expensive-pos&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;For sequin eveningwear, receiving teams reject cartons for barcode mismatches, crushed sequin fields, and missing size assortments—even when the garment itself is fine. Platform-ready packing is part of quality, not an afterthought.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pre-ship-checklist&#34;&gt;Pre-ship checklist&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#pre-ship-checklist&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Polybags&lt;/strong&gt; — Clear bags sized to avoid sequin crush; include size sticker facing out.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hangtags / care labels&lt;/strong&gt; — Fiber content and care symbols matching market rules.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Barcodes&lt;/strong&gt; — SKU-level codes that scan; verify against the buyer&amp;rsquo;s ASN template.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Assortment&lt;/strong&gt; — Ratio packs documented on packing list and carton marks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Carton strength&lt;/strong&gt; — Double-wall for dense sequin goods; no over-compression.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Needle detection&lt;/strong&gt; — Pass records available when required by the buyer.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Photo pack&lt;/strong&gt; — Sample carton open/close photos archived with the PO.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;fba-and-3pl-notes&#34;&gt;FBA and 3PL notes&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#fba-and-3pl-notes&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;If shipping to Amazon FBA or a third-party warehouse, confirm label placement, carton weight limits, and whether sequin fringe styles need tissue or boards. Sparyn can adapt packing to Fashion Nova, SHEIN, Temu, Windsor Store, and private-label intake rules when specs are shared at sampling.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Logistics on Sparyn</title><link>https://www.sparyn.com/zh-cn/tags/logistics/</link><description>Recent content in Logistics on Sparyn</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sparyn.com/zh-cn/tags/logistics/index.xml" rel="self" type="application/rss+xml"/><item><title>Platform-Ready Packing Checklist</title><link>https://www.sparyn.com/zh-cn/insights/platform-ready-packing/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://www.sparyn.com/zh-cn/insights/platform-ready-packing/</guid><description>&lt;h2 id="why-packing-fails-expensive-pos"&gt;Why packing fails expensive POs&lt;a class="td-heading-self-link" href="#why-packing-fails-expensive-pos" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;For sequin eveningwear, receiving teams reject cartons for barcode mismatches, crushed sequin fields, and missing size assortments—even when the garment itself is fine. Platform-ready packing is part of quality, not an afterthought.&lt;/p&gt;
+&lt;h2 id="pre-ship-checklist"&gt;Pre-ship checklist&lt;a class="td-heading-self-link" href="#pre-ship-checklist" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Polybags&lt;/strong&gt; — Clear bags sized to avoid sequin crush; include size sticker facing out.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hangtags / care labels&lt;/strong&gt; — Fiber content and care symbols matching market rules.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Barcodes&lt;/strong&gt; — SKU-level codes that scan; verify against the buyer&amp;rsquo;s ASN template.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assortment&lt;/strong&gt; — Ratio packs documented on packing list and carton marks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Carton strength&lt;/strong&gt; — Double-wall for dense sequin goods; no over-compression.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Needle detection&lt;/strong&gt; — Pass records available when required by the buyer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Photo pack&lt;/strong&gt; — Sample carton open/close photos archived with the PO.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="fba-and-3pl-notes"&gt;FBA and 3PL notes&lt;a class="td-heading-self-link" href="#fba-and-3pl-notes" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;If shipping to Amazon FBA or a third-party warehouse, confirm label placement, carton weight limits, and whether sequin fringe styles need tissue or boards. Sparyn can adapt packing to Fashion Nova, SHEIN, Temu, Windsor Store, and private-label intake rules when specs are shared at sampling.&lt;/p&gt;</description></item></channel></rss>
