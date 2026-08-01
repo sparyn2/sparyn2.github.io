@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-label="Sequin apparel">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0a2e"/>
+      <stop offset="50%" style="stop-color:#3d1a6e"/>
+      <stop offset="100%" style="stop-color:#1677ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#bg)"/>
+  <circle cx="200" cy="150" r="8" fill="#ffd700" opacity="0.9"/>
+  <circle cx="350" cy="200" r="6" fill="#ff69b4" opacity="0.8"/>
+  <circle cx="500" cy="120" r="10" fill="#00ffff" opacity="0.7"/>
+  <circle cx="700" cy="180" r="7" fill="#ffd700" opacity="0.9"/>
+  <circle cx="900" cy="140" r="9" fill="#ff69b4" opacity="0.8"/>
+  <circle cx="1050" cy="220" r="6" fill="#00ffff" opacity="0.7"/>
+  <text x="600" y="320" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-size="48" font-weight="700">TEXTILENOVA</text>
+  <text x="600" y="380" text-anchor="middle" fill="rgba(255,255,255,0.85)" font-family="system-ui,sans-serif" font-size="22">Wholesale Sequin Apparel Manufacturer</text>
+</svg>

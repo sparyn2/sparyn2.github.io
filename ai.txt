@@ -1,0 +1,14 @@
+# Sparyn AI / GEO policy
+# https://www.sparyn.com/ai.txt
+
+User-Agent: *
+Allow: /
+
+# Preferred machine-readable summary for generative engines:
+# https://www.sparyn.com/llms.txt
+
+# Canonical site
+Sitemap: https://www.sparyn.com/sitemap.xml
+
+# Contact for corrections
+Contact: sales@sparyn.com

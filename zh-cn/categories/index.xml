@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sparyn</title>
+    <link>http://localhost:1313/zh-cn/categories/</link>
+    <description>Recent content in Categories on Sparyn</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Operations</title>
+      <link>http://localhost:1313/zh-cn/categories/operations/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-cn/categories/operations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sourcing</title>
+      <link>http://localhost:1313/zh-cn/categories/sourcing/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-cn/categories/sourcing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Materials</title>
+      <link>http://localhost:1313/zh-cn/categories/materials/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-cn/categories/materials/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
