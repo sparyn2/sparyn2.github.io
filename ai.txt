@@ -11,4 +11,5 @@ Allow: /
 Sitemap: https://www.sparyn.com/sitemap.xml
 
 # Contact for corrections
-Contact: sales@sparyn.com
+Contact: Sophia@axwp.com
+WhatsApp: +86 153 3832 0637
